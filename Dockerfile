@@ -1,2 +1,2 @@
-FROM prashanthntrade/webapp
+FROM prashanthntrade/devopsIQ
 ADD ./devopsIQ /var/www/html/devopsIQ
